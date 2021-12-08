@@ -12,3 +12,8 @@ The necessary programs, fonts, and plugins to view the .xd files used for the de
 * [Adobe XD](https://www.adobe.com/products/xd.html)
 * [IBM Plex Sans font](https://fonts.google.com/specimen/IBM+Plex+Sans)
 * [IBM Plex Sans Condensed font](https://fonts.google.com/specimen/IBM+Plex+Sans+Condensed)
+
+## Credits
+### Design Elements
+* [UI Accessibility Kit](https://www.behance.net/gallery/103160439/UI-Accessibility-Kit-for-Adobe-XD) by [Maiane Gabriele](https://www.behance.net/maianegabriele)
+* [IBM - Carbon Design System UI Kit](https://www.carbondesignsystem.com/designing/kits/adobe-xd) (v10.5.0) by IBM's [Carbon Design System](https://www.carbondesignsystem.com/)
